@@ -20,7 +20,7 @@ This walkthrough provides steps for using **Academic Search Premier**, a multi-d
 
 {% include figure.html img="navigate.jpg" alt="Navigate to Academic Search Premier" caption="Navigate to Academic Search Premier" width="75%" %}
 Sign in to your account using your U of I email and password.
-{% include figure.html img="signin.jpg" alt="The sign-in screen" caption="The sign-in screen" width="75%" %}
+{% include figure.html img="signin.jpg" alt="The sign-in screen" caption="The sign-in screen" width="40%" %}
 
 {:start="2"}
 2. Let’s search for articles related to why we sometimes get music stuck in our head. These are often called earworms. We can type **earworms music brain** keywords in the search box. This is the same as using the Boolean phrase **earworms AND music AND brain** because the database automatically puts an AND in all capital letters between each word. Click search after typing the keywords.
@@ -30,7 +30,7 @@ Sign in to your account using your U of I email and password.
 {:start="3"}
 3. After searching and seeing the results page, you can scan the article titles to look for relevant articles. If you want to refine your results, you can navigate to the "Refine Results" and "Limit To" sections to add filters to your search results. You can check the box to narrow down your search to "Peer-Reviewed" journals. You can also choose a specific date range.
 
-{% include figure.html img="refine.jpg" alt="Academic Search Premier search screen" caption="Refine results options" width="75%" %}
+{% include figure.html img="refine.jpg" alt="Academic Search Premier search screen" caption="Refine results options" width="20%" %}
 
 The icons in the result list help you know what kind of publication the article is from. 
 - ![periodical](periodical.jpg) In Academic Search Premier, periodical means popular magazine. 
@@ -40,7 +40,7 @@ The icons in the result list help you know what kind of publication the article 
 {:start="4"}
 4. Clicking the title of an article, such as "The Classification of Involuntary Musical Imagery," brings up more information, including an abstract or summary as well as other possible keywords you could use in your search. In this example, you can see that we found a more professional term for earworms: involuntary musical imagery. You can pull up all the other articles tagged with that term by clicking "involuntary musical imagery."
 
-{% include figure.html img="articlepage.jpg" alt="Article page" caption="Article page" width="75%" %}
+{% include figure.html img="articlepage.jpg" alt="Article page" caption="Article page" width="100%" %}
 
 On the left, you will see several options for getting the full text article. If you see HTML, PDF or linked full text, you can simply click the icon or link to view the whole article.
 If you see a “check for full text availability” link, it means the library may or may not have access to the full text online. 
