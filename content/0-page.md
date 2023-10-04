@@ -1,6 +1,6 @@
 ---
 title: Instructional guides for popular content
-nav: page
+nav: Page
 topics: Academic Search Premier; Articles
 ---
 
@@ -21,6 +21,8 @@ This walkthrough provides steps for using **Academic Search Premier**, a multi-d
  {% include figure.html img="navigate.jpg" alt="Navigate to Academic Search Premier" caption="Navigate to Academic Search Premier" width="75%" %}
  Sign in to your account using your U of I email and password.
  {% include figure.html img="signin.jpg" alt="The sign-in screen" caption="The sign-in screen" width="75%" %}
+ 
+{:start="2"}
 2. Let’s search for articles related to why we sometimes get music stuck in our head. These are often called earworms. We can type **earworms music brain** keywords in the search box. This is the same as using the Boolean phrase **earworms AND music AND brain** because the database automatically puts an AND in all capital letters between each word. Click search after typing the keywords.
 
 {% include figure.html img="searchscreen.jpg" alt="Academic Search Premier search screen" caption="Academic Search Premier search screen" width="75%" %}
