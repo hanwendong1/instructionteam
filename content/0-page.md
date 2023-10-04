@@ -33,9 +33,9 @@ Sign in to your account using your U of I email and password.
 {% include figure.html img="refine.jpg" alt="Academic Search Premier search screen" caption="Refine results options" width="20%" %}
 
 The icons in the result list help you know what kind of publication the article is from. 
-- ![periodical](periodical.jpg) In Academic Search Premier, periodical means popular magazine. 
-- ![Academic journal](academicjournal.jpg) Academic journal means a journal that publishes scholarly articles. Often these articles are reviewed by other experts in the field. This is called “peer review.” 
-- ![News](news.jpg) News means articles that have been published in a newspaper.
+- ![periodical](https://raw.githubusercontent.com/hanwendong1/instructionteam/main/images/periodical.jpg) In Academic Search Premier, periodical means popular magazine. 
+- ![Academic journal](https://raw.githubusercontent.com/hanwendong1/instructionteam/main/images/academicjournal.jpg) Academic journal means a journal that publishes scholarly articles. Often these articles are reviewed by other experts in the field. This is called “peer review.” 
+- ![News](https://raw.githubusercontent.com/hanwendong1/instructionteam/main/images/news.jpg) News means articles that have been published in a newspaper.
 
 {:start="4"}
 4. Clicking the title of an article, such as "The Classification of Involuntary Musical Imagery," brings up more information, including an abstract or summary as well as other possible keywords you could use in your search. In this example, you can see that we found a more professional term for earworms: involuntary musical imagery. You can pull up all the other articles tagged with that term by clicking "involuntary musical imagery."
