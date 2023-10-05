@@ -33,7 +33,7 @@ Sign in to your account using your U of I email and password.
 {% include figure.html img="refine.jpg" alt="Academic Search Premier search screen" caption="Refine results options" width="20%" %}
 
 The icons in the result list help you know what kind of publication the article is from. 
-![periodical](https://raw.githubusercontent.com/hanwendong1/instructionteam/main/images/periodical.jpg){% width="50%" %} In Academic Search Premier, periodical means popular magazine. 
+<img src="https://raw.githubusercontent.com/hanwendong1/instructionteam/main/images/periodical.jpg" alt="periodical" width="100" height="100" /> In Academic Search Premier, periodical means popular magazine. 
 
 ![Academic journal](https://raw.githubusercontent.com/hanwendong1/instructionteam/main/images/academicjournal.jpg){ width=50% } Academic journal means a journal that publishes scholarly articles. Often these articles are reviewed by other experts in the field. This is called “peer review.” 
 
