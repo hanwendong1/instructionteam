@@ -57,6 +57,6 @@ In this next example, when clicking “check for full text availability” on �
 <img src="https://raw.githubusercontent.com/hanwendong1/instructionteam/main/images/news.jpg" alt="News" width="50" height="50" /> 
 {% include figure.html img="viewonline.gif" alt="View Online" caption="View Online" width="80%" %}
 
-{% include jumbotron.html text="It’s always a good idea to collect more articles than you think you might need. If your search was not successful, you can redo your search by changing your search terms or using limiters. For example, you could search for involuntary memory music to see a new list of results. Searching for articles can be complex, so don't hesitate to contact the Library for additional assistance. Now you are ready to begin searching for articles." border=true %}
-
- 
+{% capture text %}
+It’s always a good idea to collect more articles than you think you might need. If your search was not successful, you can redo your search by changing your search terms or using limiters. Searching for articles can be complex, so don't hesitate to contact the Library for additional assistance. Now you are ready to begin searching for articles. {% endcapture %}
+{% include alert.html text=text color=secondary %}
