@@ -5,7 +5,7 @@ topics: Academic Search Premier; Articles
 ---
 
 - Identify the topic/content page to be created
-- Create walkthrough guides by modeling this page https://collectionbuilder.github.io/cb-docs/docs/walkthroughs/ 
+- Create walkthrough guides by modeling this page [https://collectionbuilder.github.io/cb-docs/docs/walkthroughs/](https://collectionbuilder.github.io/cb-docs/docs/walkthroughs/){:target="_blank"}
     - See sample instructional page (on finding articles) below
 
 {% capture text %}
@@ -20,7 +20,7 @@ This walkthrough provides steps for using **Academic Search Premier**, a multi-d
 
 {% include figure.html img="navigate.jpg" alt="Navigate to Academic Search Premier" caption="Navigate to Academic Search Premier" width="75%" %}
 Sign in to your account using your U of I email and password.
-{% include figure.html img="signin.jpg" alt="The sign-in screen" caption="The sign-in screen" width="40%" %}
+{% include figure.html img="signin.gif" alt="The sign-in screen" caption="The sign-in screen" width="40%" %}
 
 {:start="2"}
 2. Let’s search for articles related to why we sometimes get music stuck in our head. These are often called earworms. We can type keywords **earworms music brain** in the search box. This is the same as using the Boolean phrase **earworms AND music AND brain** because the database automatically puts an AND in all capital letters between each word. Click search after typing the keywords.
