@@ -4,9 +4,9 @@ nav: Page
 topics: Academic Search Premier; Articles
 ---
 
-{% capture text %}Note:
-This is a sample instructional page on finding articles. {% endcapture %}
-{% include alert.html text=text color=secondary %}
+- Identify the topic/content page to be created
+- Create walkthrough guides by modeling this page https://collectionbuilder.github.io/cb-docs/docs/walkthroughs/ 
+    - See sample instructional page (on finding articles) below
 
 {% capture text %}
 Looking for articles, book chapters, conference proceedings, or other research materials? Databases are the best place to search. The library subscribes to over 200 databases, including many discipline-specific options.
