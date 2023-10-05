@@ -33,15 +33,12 @@ Sign in to your account using your U of I email and password.
 {% include figure.html img="refine.jpg" alt="Academic Search Premier search screen" caption="Refine results options" width="20%" %}
 
 The icons in the result list help you know what kind of publication the article is from. 
+
 <img src="https://raw.githubusercontent.com/hanwendong1/instructionteam/main/images/periodical.jpg" alt="Periodical" width="50" height="50" /> In Academic Search Premier, periodical means popular magazine. 
 
 <img src="https://raw.githubusercontent.com/hanwendong1/instructionteam/main/images/academicjournal.jpg" alt="Academic journal" width="50" height="50" /> Academic journal means a journal that publishes scholarly articles. Often these articles are reviewed by other experts in the field. This is called “peer review.” 
 
 <img src="https://raw.githubusercontent.com/hanwendong1/instructionteam/main/images/news.jpg" alt="News" width="50" height="50" /> News means articles that have been published in a newspaper.
-
-|    :----:   |    :----:   |    :----:   |
-|       ![periodical](https://raw.githubusercontent.com/hanwendong1/instructionteam/main/images/periodical.jpg)      |![Academic journal](https://raw.githubusercontent.com/hanwendong1/instructionteam/main/images/academicjournal.jpg)             |![News](https://raw.githubusercontent.com/hanwendong1/instructionteam/main/images/news.jpg)             |
-|       In Academic Search Premier, periodical means popular magazine.      | Academic journal means a journal that publishes scholarly articles. Often these articles are reviewed by other experts in the field. This is called “peer review.”             |News means articles that have been published in a newspaper.             |
 
 {:start="4"}
 4. Clicking the title of an article, such as "The Classification of Involuntary Musical Imagery," brings up more information, including an abstract or summary as well as other possible keywords you could use in your search. In this example, you can see that we found a more professional term for earworms: involuntary musical imagery. You can pull up all the other articles tagged with that term by clicking "involuntary musical imagery."
@@ -53,13 +50,12 @@ If you see a “check for full text availability” link, it means the library m
 
 For example, when clicking “check for full text availability” on “Singing in the Brain,” you are taken to our library catalog and can see that the full-text is not available immediately from our library’s resources, but it could be ordered for free from [Interlibrary Loan](https://www.lib.uidaho.edu/services/ill/){:target="_blank"}.
 
-
+{% include figure.html img="fulltext.gif" alt="Check for full text availability" caption="Check for full text availability" width="80%" %}
 
 In this next example, when clicking “check for full text availability” on “Catching Earworms on Twitter...,” you can see a link to the full article under “View Online.”
 
-It’s always a good idea to collect more articles than you think you might need. If your search was not successful, you can redo your search by changing your search terms or using limiters. For example, you could search for involuntary memory music to see a new list of results. Searching for articles can be complex, so don't hesitate to contact the Library for additional assistance. Now you are ready to begin searching for articles.
+{% include figure.html img="viewonline.gif" alt="View Online" caption="View Online" width="80%" %}
 
-
-
+{% include jumbotron.html text="It’s always a good idea to collect more articles than you think you might need. If your search was not successful, you can redo your search by changing your search terms or using limiters. For example, you could search for involuntary memory music to see a new list of results. Searching for articles can be complex, so don't hesitate to contact the Library for additional assistance. Now you are ready to begin searching for articles." border=true %}
 
  
