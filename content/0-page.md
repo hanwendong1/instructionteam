@@ -1,7 +1,6 @@
 ---
 title: Instructional guides for popular content
 nav: Page
-topics: Academic Search Premier; Articles
 ---
 
 - Identify the topic/content page to be created
@@ -54,7 +53,6 @@ For example, when clicking “check for full text availability” on “Singing 
 
 In this next example, when clicking “check for full text availability” on “Catching Earworms on Twitter...,” you can see a link to the full article under “View Online.”
 
-<img src="https://raw.githubusercontent.com/hanwendong1/instructionteam/main/images/news.jpg" alt="News" width="50" height="50" /> 
 {% include figure.html img="viewonline.gif" alt="View Online" caption="View Online" width="80%" %}
 
 {% capture text %}
