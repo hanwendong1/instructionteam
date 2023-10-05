@@ -23,7 +23,7 @@ Sign in to your account using your U of I email and password.
 {% include figure.html img="signin.jpg" alt="The sign-in screen" caption="The sign-in screen" width="40%" %}
 
 {:start="2"}
-2. Let’s search for articles related to why we sometimes get music stuck in our head. These are often called earworms. We can type **earworms music brain** keywords in the search box. This is the same as using the Boolean phrase **earworms AND music AND brain** because the database automatically puts an AND in all capital letters between each word. Click search after typing the keywords.
+2. Let’s search for articles related to why we sometimes get music stuck in our head. These are often called earworms. We can type keywords **earworms music brain** in the search box. This is the same as using the Boolean phrase **earworms AND music AND brain** because the database automatically puts an AND in all capital letters between each word. Click search after typing the keywords.
 
 {% include figure.html img="searchscreen.jpg" alt="Academic Search Premier search screen" caption="Academic Search Premier search screen" width="75%" %}
 
@@ -33,11 +33,11 @@ Sign in to your account using your U of I email and password.
 {% include figure.html img="refine.jpg" alt="Academic Search Premier search screen" caption="Refine results options" width="20%" %}
 
 The icons in the result list help you know what kind of publication the article is from. 
-![periodical](https://raw.githubusercontent.com/hanwendong1/instructionteam/main/images/periodical.jpg =100x100) In Academic Search Premier, periodical means popular magazine. 
+![periodical](https://raw.githubusercontent.com/hanwendong1/instructionteam/main/images/periodical.jpg){ width=50% } In Academic Search Premier, periodical means popular magazine. 
 
-![Academic journal](https://raw.githubusercontent.com/hanwendong1/instructionteam/main/images/academicjournal.jpg =100x100) Academic journal means a journal that publishes scholarly articles. Often these articles are reviewed by other experts in the field. This is called “peer review.” 
+![Academic journal](https://raw.githubusercontent.com/hanwendong1/instructionteam/main/images/academicjournal.jpg){ width=50% } Academic journal means a journal that publishes scholarly articles. Often these articles are reviewed by other experts in the field. This is called “peer review.” 
 
-![News](https://raw.githubusercontent.com/hanwendong1/instructionteam/main/images/news.jpg =100x100) News means articles that have been published in a newspaper.
+![News](https://raw.githubusercontent.com/hanwendong1/instructionteam/main/images/news.jpg){ width=50% } News means articles that have been published in a newspaper.
 
 |    :----:   |    :----:   |    :----:   |
 |       ![periodical](https://raw.githubusercontent.com/hanwendong1/instructionteam/main/images/periodical.jpg)      |![Academic journal](https://raw.githubusercontent.com/hanwendong1/instructionteam/main/images/academicjournal.jpg)             |![News](https://raw.githubusercontent.com/hanwendong1/instructionteam/main/images/news.jpg)             |
