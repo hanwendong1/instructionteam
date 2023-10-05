@@ -33,7 +33,7 @@ Sign in to your account using your U of I email and password.
 {% include figure.html img="refine.jpg" alt="Academic Search Premier search screen" caption="Refine results options" width="20%" %}
 
 The icons in the result list help you know what kind of publication the article is from. 
-![periodical](https://raw.githubusercontent.com/hanwendong1/instructionteam/main/images/periodical.jpg){ width=50% } In Academic Search Premier, periodical means popular magazine. 
+![periodical](https://raw.githubusercontent.com/hanwendong1/instructionteam/main/images/periodical.jpg){% width="50%" %} In Academic Search Premier, periodical means popular magazine. 
 
 ![Academic journal](https://raw.githubusercontent.com/hanwendong1/instructionteam/main/images/academicjournal.jpg){ width=50% } Academic journal means a journal that publishes scholarly articles. Often these articles are reviewed by other experts in the field. This is called “peer review.” 
 
@@ -52,6 +52,8 @@ On the left, you will see several options for getting the full text article. If 
 If you see a “check for full text availability” link, it means the library may or may not have access to the full text online. 
 
 For example, when clicking “check for full text availability” on “Singing in the Brain,” you are taken to our library catalog and can see that the full-text is not available immediately from our library’s resources, but it could be ordered for free from [Interlibrary Loan](https://www.lib.uidaho.edu/services/ill/){:target="_blank"}.
+
+
 
 In this next example, when clicking “check for full text availability” on “Catching Earworms on Twitter...,” you can see a link to the full article under “View Online.”
 
