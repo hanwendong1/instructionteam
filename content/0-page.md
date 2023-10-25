@@ -25,29 +25,31 @@ This walkthrough provides steps for using **Academic Search Premier**, a multi-d
 {% include figure.html img="signin.gif" alt="The sign-in screen" caption="The sign-in screen" width="40%" %}
 
 {:start="2"}
-#### 2. Search for Articles
+#### 2. Search for Articles.
 
-- Type keywords **earworms music brain** in the search box. This is the same as using the Boolean phrase **earworms AND music AND brain** because the database automatically puts an AND in all capital letters between each word. Click search after typing the keywords.
+- Type keywords **earworms music brain** in the search box. This is the same as using the Boolean phrase **earworms AND music AND brain** because the database automatically puts an AND in all capital letters between each word. 
+
+- Click search after typing the keywords.
 
 {% include figure.html img="searchscreen.jpg" alt="Academic Search Premier search screen" caption="Academic Search Premier search screen" width="75%" %}
 
-- To refine results, navigate to the "Refine Results" and "Limit To" sections to add filters to the search results. Check the box to narrow down the search to "Peer-Reviewed" journals and choose a specific date range if necessary.
+- Refine results by navigating to the "Refine Results" and "Limit To" sections to add filters to the search results. Check the box to narrow down the search to "Peer-Reviewed" journals and choose a specific date range if necessary.
 
 {% include figure.html img="refine.jpg" alt="Academic Search Premier search screen" caption="Refine results options" width="20%" %}
 
 - The icons in the result list indicate what kind of publication the article is from. 
 
- - <img src="https://raw.githubusercontent.com/hanwendong1/instructionteam/main/images/periodical.jpg" alt="Periodical" width="50" height="50" /> In Academic Search Premier, periodical means popular magazine. 
+  - <img src="https://raw.githubusercontent.com/hanwendong1/instructionteam/main/images/periodical.jpg" alt="Periodical" width="50" height="50" /> In Academic Search Premier, periodical means popular magazine. 
 
- - <img src="https://raw.githubusercontent.com/hanwendong1/instructionteam/main/images/academicjournal.jpg" alt="Academic journal" width="50" height="50" /> Academic journal means a journal that publishes peer-reviewed scholarly articles.
+  - <img src="https://raw.githubusercontent.com/hanwendong1/instructionteam/main/images/academicjournal.jpg" alt="Academic journal" width="50" height="50" /> Academic journal means a journal that publishes peer-reviewed scholarly articles.
 
- - <img src="https://raw.githubusercontent.com/hanwendong1/instructionteam/main/images/news.jpg" alt="News" width="50" height="50" /> News means articles that have been published in a newspaper.
+  - <img src="https://raw.githubusercontent.com/hanwendong1/instructionteam/main/images/news.jpg" alt="News" width="50" height="50" /> News means articles that have been published in a newspaper.
 
-- Find similar articles by clicking relevant subject erms to pull up all the other articles tagged with that term.
+- Find similar articles by clicking relevant subject terms to pull up all the other articles tagged with that term.
 
 {% include figure.html img="articlepage.jpg" alt="Article page" caption="Article page" width="100%" %}
 
-#### 3. Find Full-Text Articles
+#### 3. Find Full-Text Articles.
 
 - Click the HTML, PDF or linked full text icon on the left to view the whole article.
 
