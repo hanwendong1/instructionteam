@@ -15,46 +15,52 @@ This walkthrough provides steps for using **Academic Search Premier**, a multi-d
 {% include card.html text=text %}
 
 
-1. From the Library webpage, [lib.uidaho.edu](https://lib.uidaho.edu){:target="_blank"}, click **Academic Search Premier** under the catalog search bar and magnifying glass.
+#### 1. Access Academic Search Premier.
+
+- From the Library webpage, [lib.uidaho.edu](https://lib.uidaho.edu){:target="_blank"}, click **Academic Search Premier** under the catalog search bar and magnifying glass.
 
 {% include figure.html img="navigate.jpg" alt="Navigate to Academic Search Premier" caption="Navigate to Academic Search Premier" width="75%" %}
-Sign in to your account using your U of I email and password.
+
+- Sign in to your account using your U of I email and password.
 {% include figure.html img="signin.gif" alt="The sign-in screen" caption="The sign-in screen" width="40%" %}
 
 {:start="2"}
-2. Let’s search for articles related to why we sometimes get music stuck in our head. These are often called earworms. We can type keywords **earworms music brain** in the search box. This is the same as using the Boolean phrase **earworms AND music AND brain** because the database automatically puts an AND in all capital letters between each word. Click search after typing the keywords.
+#### 2. Search for Articles
+
+- Type keywords **earworms music brain** in the search box. This is the same as using the Boolean phrase **earworms AND music AND brain** because the database automatically puts an AND in all capital letters between each word. Click search after typing the keywords.
 
 {% include figure.html img="searchscreen.jpg" alt="Academic Search Premier search screen" caption="Academic Search Premier search screen" width="75%" %}
 
-{:start="3"}
-3. After searching and seeing the results page, you can scan the article titles to look for relevant articles. If you want to refine your results, you can navigate to the "Refine Results" and "Limit To" sections to add filters to your search results. You can check the box to narrow down your search to "Peer-Reviewed" journals. You can also choose a specific date range.
+- To refine results, navigate to the "Refine Results" and "Limit To" sections to add filters to the search results. Check the box to narrow down the search to "Peer-Reviewed" journals and choose a specific date range if necessary.
 
 {% include figure.html img="refine.jpg" alt="Academic Search Premier search screen" caption="Refine results options" width="20%" %}
 
-The icons in the result list help you know what kind of publication the article is from. 
+- The icons in the result list indicate what kind of publication the article is from. 
 
-- <img src="https://raw.githubusercontent.com/hanwendong1/instructionteam/main/images/periodical.jpg" alt="Periodical" width="50" height="50" /> In Academic Search Premier, periodical means popular magazine. 
+ - <img src="https://raw.githubusercontent.com/hanwendong1/instructionteam/main/images/periodical.jpg" alt="Periodical" width="50" height="50" /> In Academic Search Premier, periodical means popular magazine. 
 
-- <img src="https://raw.githubusercontent.com/hanwendong1/instructionteam/main/images/academicjournal.jpg" alt="Academic journal" width="50" height="50" /> Academic journal means a journal that publishes peer-reviewed scholarly articles.
+ - <img src="https://raw.githubusercontent.com/hanwendong1/instructionteam/main/images/academicjournal.jpg" alt="Academic journal" width="50" height="50" /> Academic journal means a journal that publishes peer-reviewed scholarly articles.
 
-- <img src="https://raw.githubusercontent.com/hanwendong1/instructionteam/main/images/news.jpg" alt="News" width="50" height="50" /> News means articles that have been published in a newspaper.
+ - <img src="https://raw.githubusercontent.com/hanwendong1/instructionteam/main/images/news.jpg" alt="News" width="50" height="50" /> News means articles that have been published in a newspaper.
 
-{:start="4"}
-4. Clicking the title of an article, such as "The Classification of Involuntary Musical Imagery," brings up more information, including an abstract or summary as well as other possible keywords you could use in your search. In this example, you can see that we found a more professional term for earworms: involuntary musical imagery. You can pull up all the other articles tagged with that term by clicking "involuntary musical imagery."
+- Find similar articles by clicking relevant subject erms to pull up all the other articles tagged with that term.
 
 {% include figure.html img="articlepage.jpg" alt="Article page" caption="Article page" width="100%" %}
 
-On the left, you will see several options for getting the full text article. If you see HTML, PDF or linked full text, you can simply click the icon or link to view the whole article.
-If you see a “check for full text availability” link, it means the library may or may not have access to the full text online. 
+#### 3. Find Full-Text Articles
 
-For example, when clicking “check for full text availability” on “Singing in the Brain,” you are taken to our library catalog and can see that the full-text is not available immediately from our library’s resources, but it could be ordered for free from [Interlibrary Loan](https://www.lib.uidaho.edu/services/ill/){:target="_blank"}.
+- Click the HTML, PDF or linked full text icon on the left to view the whole article.
+
+- A “check for full text availability” means the library may or may not have access to the full text online. 
+
+- If the full-text is not available, it can be ordered for free from [Interlibrary Loan](https://www.lib.uidaho.edu/services/ill/){:target="_blank"}.
 
 {% include figure.html img="fulltext.gif" alt="Check for full text availability" caption="Check for full text availability" width="80%" %}
 
-In this next example, when clicking “check for full text availability” on “Catching Earworms on Twitter...,” you can see a link to the full article under “View Online.”
+- In this next example, the full article can be accessed under “View Online” when clicking “check for full text availability.”
 
 {% include figure.html img="viewonline.gif" alt="View Online" caption="View Online" width="80%" %}
 
 {% capture text %}
-It’s always a good idea to collect more articles than you think you might need. If your search was not successful, you can redo your search by changing your search terms or using limiters. Searching for articles can be complex, so don't hesitate to contact the Library for additional assistance. Now you are ready to begin searching for articles. {% endcapture %}
+Searching for articles can be complex, so don't hesitate to contact the Library for additional assistance.{% endcapture %}
 {% include alert.html text=text color=secondary %}
