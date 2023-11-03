@@ -9,6 +9,7 @@ Projects/initiatives for the instruction team to consider:
 - Workshop Resources
 - Website/instruction page redesign
 - LibGuide
+- Compile/create resource for ENGL 102 refresher
 
 {% include toc.html %}
 

@@ -1,6 +1,6 @@
 ---
 title: Resource for ENGL 102 refresher 
-nav: ENGL refresher
+nav: ENGL Refresher
 ---
 
 - Identify three learning outcomes for ENGL 102 library sessions
