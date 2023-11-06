@@ -1,5 +1,5 @@
 ---
-title: Website/instruction page redesign
+title: Website/instruction page(s) redesign/reorganization
 nav: Website
 topics:  
 
