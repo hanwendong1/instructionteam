@@ -22,7 +22,19 @@ This walkthrough provides steps for using **Academic Search Premier**, a multi-d
 {% include figure.html img="navigate.jpg" alt="Navigate to Academic Search Premier" caption="Navigate to Academic Search Premier" width="100%" %}
 
 - Sign in to your account using your U of I email and password.
-{% include figure.html img="signin.gif" alt="The sign-in screen" caption="The sign-in screen" width="100%" %}
+
+<html>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.responsive {
+  width: 100%;
+  height: auto;
+}
+</style>
+<a href="https://raw.githubusercontent.com/hanwendong1/instructionteam/main/images/signin.gif" target="_blank">
+<img src="https://raw.githubusercontent.com/hanwendong1/instructionteam/main/images/signin.gif" alt="The sign-in screen" caption="The sign-in screen" class="responsive">
+</a>
+</html>
 
 {:start="2"}
 #### 2. Search for Articles.
@@ -32,6 +44,10 @@ This walkthrough provides steps for using **Academic Search Premier**, a multi-d
 - Click search after typing the keywords.
 
 {% include figure.html img="searchscreen.jpg" alt="Academic Search Premier search screen" caption="Academic Search Premier search screen" width="100%" %}
+
+- Here's the results page:
+
+{% include figure.html img="results page.jpg" alt="Results page" caption="Results page" width="100%" %}
 
 - Refine results by navigating to the "Refine Results" and "Limit To" sections to add filters to the search results. Check the box to narrow down the search to "Peer-Reviewed" journals and choose a specific date range if necessary.
 
@@ -57,15 +73,20 @@ This walkthrough provides steps for using **Academic Search Premier**, a multi-d
 
 - If the full-text is not available, it can be ordered for free from [Interlibrary Loan](https://www.lib.uidaho.edu/services/ill/){:target="_blank"}.
 
-{% include figure.html img="fulltext.gif" alt="Check for full text availability" caption="Check for full text availability" width="100%" %}
+<html>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.responsive {
+  width: 100%;
+  height: auto;
+}
+</style>
+<a href="https://raw.githubusercontent.com/hanwendong1/instructionteam/main/images/ill.gif" target="_blank">
+<img src="https://raw.githubusercontent.com/hanwendong1/instructionteam/main/images/ill.gif" alt="Request vie Interlibraryloan" caption="Request vie Interlibraryloan" class="responsive">
+</a>
+</html>
 
 - In this next example, the full article can be accessed under “View Online” when clicking “check for full text availability.”
-
-{% include figure.html img="viewonline.gif" alt="View Online" caption="View Online" width="100%" %}
-
-{% capture text %}
-Searching for articles can be complex, so don't hesitate to contact the Library for additional assistance.{% endcapture %}
-{% include alert.html text=text color=secondary %}
 
 <html>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -79,3 +100,7 @@ Searching for articles can be complex, so don't hesitate to contact the Library 
 <img src="https://raw.githubusercontent.com/hanwendong1/instructionteam/main/images/viewonline.gif" alt="View Online" caption="View Online" class="responsive">
 </a>
 </html>
+
+{% capture text %}
+Searching for articles can be complex, so don't hesitate to contact the Library for additional assistance.{% endcapture %}
+{% include alert.html text=text color=secondary %}
