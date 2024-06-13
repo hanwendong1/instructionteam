@@ -88,7 +88,7 @@ This walkthrough provides steps for using **Academic Search Premier**, a multi-d
 
 - A “check for full text availability” means the library may or may not have access to the full text online. 
 
-- If the full-text is not available, it can be ordered for free from [Interlibrary Loan](https://www.lib.uidaho.edu/services/ill/){:target="_blank"}.
+- If the full-text is not available, it can be ordered for free from [Interlibrary Loan](https://www.lib.uidaho.edu/services/ill/){:target="_blank"}. Once you are signed in to your library account, you can click "Request from Interlibrary Loan" to submit your request.
 
 <html>
 <meta name="viewport" content="width=device-width, initial-scale=1">
