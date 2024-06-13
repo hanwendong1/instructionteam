@@ -19,10 +19,10 @@ This walkthrough provides steps for using **Academic Search Premier**, a multi-d
 
 - From the Library webpage, [lib.uidaho.edu](https://lib.uidaho.edu){:target="_blank"}, click **Academic Search Premier** under the catalog search bar and magnifying glass.
 
-{% include figure.html img="navigate.jpg" alt="Navigate to Academic Search Premier" caption="Navigate to Academic Search Premier" width="75%" %}
+{% include figure.html img="navigate.jpg" alt="Navigate to Academic Search Premier" caption="Navigate to Academic Search Premier" width="100%" %}
 
 - Sign in to your account using your U of I email and password.
-{% include figure.html img="signin.gif" alt="The sign-in screen" caption="The sign-in screen" width="40%" %}
+{% include figure.html img="signin.gif" alt="The sign-in screen" caption="The sign-in screen" width="100%" %}
 
 {:start="2"}
 #### 2. Search for Articles.
@@ -31,11 +31,11 @@ This walkthrough provides steps for using **Academic Search Premier**, a multi-d
 
 - Click search after typing the keywords.
 
-{% include figure.html img="searchscreen.jpg" alt="Academic Search Premier search screen" caption="Academic Search Premier search screen" width="75%" %}
+{% include figure.html img="searchscreen.jpg" alt="Academic Search Premier search screen" caption="Academic Search Premier search screen" width="100%" %}
 
 - Refine results by navigating to the "Refine Results" and "Limit To" sections to add filters to the search results. Check the box to narrow down the search to "Peer-Reviewed" journals and choose a specific date range if necessary.
 
-{% include figure.html img="refine.jpg" alt="Academic Search Premier search screen" caption="Refine results options" width="20%" %}
+{% include figure.html img="refine.jpg" alt="Academic Search Premier search screen" caption="Refine results options" width="50%" %}
 
 - The icons in the result list indicate what kind of publication the article is from. 
 
@@ -47,7 +47,7 @@ This walkthrough provides steps for using **Academic Search Premier**, a multi-d
 
 - Find similar articles by clicking relevant subject terms to pull up all the other articles tagged with that term.
 
-{% include figure.html img="articlepage.jpg" alt="Article page" caption="Article page" width="100%" %}
+{% include figure.html img="articlepage.jpg" alt="Article page" caption="Article page" width="120%" %}
 
 #### 3. Find Full-Text Articles.
 
@@ -57,11 +57,11 @@ This walkthrough provides steps for using **Academic Search Premier**, a multi-d
 
 - If the full-text is not available, it can be ordered for free from [Interlibrary Loan](https://www.lib.uidaho.edu/services/ill/){:target="_blank"}.
 
-{% include figure.html img="fulltext.gif" alt="Check for full text availability" caption="Check for full text availability" width="80%" %}
+{% include figure.html img="fulltext.gif" alt="Check for full text availability" caption="Check for full text availability" width="100%" %}
 
 - In this next example, the full article can be accessed under “View Online” when clicking “check for full text availability.”
 
-{% include figure.html img="viewonline.gif" alt="View Online" caption="View Online" width="80%" %}
+{% include figure.html img="viewonline.gif" alt="View Online" caption="View Online" width="100%" %}
 
 {% capture text %}
 Searching for articles can be complex, so don't hesitate to contact the Library for additional assistance.{% endcapture %}
