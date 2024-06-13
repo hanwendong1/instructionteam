@@ -67,4 +67,13 @@ This walkthrough provides steps for using **Academic Search Premier**, a multi-d
 Searching for articles can be complex, so don't hesitate to contact the Library for additional assistance.{% endcapture %}
 {% include alert.html text=text color=secondary %}
 
-{% include figure.html img src="https://raw.githubusercontent.com/hanwendong1/instructionteam/main/images/viewonline.gif" alt="View Online" caption="View Online" width="100%" %}
+<html>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.responsive {
+  width: 100%;
+  height: auto;
+}
+</style>
+<img src="https://raw.githubusercontent.com/hanwendong1/instructionteam/main/images/viewonline.gif" alt="View Online" caption="View Online" class="responsive">
+</html>
