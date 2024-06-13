@@ -63,10 +63,8 @@ This walkthrough provides steps for using **Academic Search Premier**, a multi-d
 
 {% include figure.html img="viewonline.gif" alt="View Online" caption="View Online" width="100%" %}
 
-{% include figure.html img src="https://raw.githubusercontent.com/hanwendong1/instructionteam/main/images/viewonline.gif" alt="View Online" caption="View Online" width="100%" %}
-
-[![View Online](images/viewonline.gif "View Online")](https://raw.githubusercontent.com/hanwendong1/instructionteam/main/images/viewonline.gif)
-
 {% capture text %}
 Searching for articles can be complex, so don't hesitate to contact the Library for additional assistance.{% endcapture %}
 {% include alert.html text=text color=secondary %}
+
+{% include figure.html img src="https://raw.githubusercontent.com/hanwendong1/instructionteam/main/images/viewonline.gif" alt="View Online" caption="View Online" width="100%" %}
