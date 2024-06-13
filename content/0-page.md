@@ -34,6 +34,9 @@ This walkthrough provides steps for using **Academic Search Premier**, a multi-d
 <a href="https://raw.githubusercontent.com/hanwendong1/instructionteam/main/images/signin.gif" target="_blank">
 <img src="https://raw.githubusercontent.com/hanwendong1/instructionteam/main/images/signin.gif" alt="The sign-in screen" caption="The sign-in screen" class="responsive">
 </a>
+<p>
+
+</p>
 </html>
 
 {:start="2"}
@@ -47,7 +50,7 @@ This walkthrough provides steps for using **Academic Search Premier**, a multi-d
 
 - Here's the results page:
 
-{% include figure.html img="results page.jpg" alt="Results page" caption="Results page" width="100%" %}
+{% include figure.html img="resultspage.jpg" alt="Results page" caption="Results page" width="100%" %}
 
 - Refine results by navigating to the "Refine Results" and "Limit To" sections to add filters to the search results. Check the box to narrow down the search to "Peer-Reviewed" journals and choose a specific date range if necessary.
 
@@ -63,7 +66,21 @@ This walkthrough provides steps for using **Academic Search Premier**, a multi-d
 
 - Find similar articles by clicking relevant subject terms to pull up all the other articles tagged with that term.
 
-{% include figure.html img="articlepage.jpg" alt="Article page" caption="Article page" width="120%" %}
+<html>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.responsive {
+  width: 100%;
+  height: auto;
+}
+</style>
+<a href="https://raw.githubusercontent.com/hanwendong1/instructionteam/main/images/articlepage.jpg" target="_blank">
+<img src="https://raw.githubusercontent.com/hanwendong1/instructionteam/main/images/articlepage.jpg" alt="Article page" caption="Article page" class="responsive">
+</a>
+<p>
+
+</p>
+</html>
 
 #### 3. Find Full-Text Articles.
 
@@ -84,6 +101,9 @@ This walkthrough provides steps for using **Academic Search Premier**, a multi-d
 <a href="https://raw.githubusercontent.com/hanwendong1/instructionteam/main/images/ill.gif" target="_blank">
 <img src="https://raw.githubusercontent.com/hanwendong1/instructionteam/main/images/ill.gif" alt="Request vie Interlibraryloan" caption="Request vie Interlibraryloan" class="responsive">
 </a>
+<p>
+
+</p>
 </html>
 
 - In this next example, the full article can be accessed under “View Online” when clicking “check for full text availability.”
@@ -99,6 +119,9 @@ This walkthrough provides steps for using **Academic Search Premier**, a multi-d
 <a href="https://raw.githubusercontent.com/hanwendong1/instructionteam/main/images/viewonline.gif" target="_blank">
 <img src="https://raw.githubusercontent.com/hanwendong1/instructionteam/main/images/viewonline.gif" alt="View Online" caption="View Online" class="responsive">
 </a>
+<p>
+
+</p>
 </html>
 
 {% capture text %}
