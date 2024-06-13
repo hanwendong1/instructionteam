@@ -75,7 +75,7 @@ Searching for articles can be complex, so don't hesitate to contact the Library 
   height: auto;
 }
 </style>
-<a href="/link/to/site">
+<a href="https://raw.githubusercontent.com/hanwendong1/instructionteam/main/images/viewonline.gif">
 <img src="https://raw.githubusercontent.com/hanwendong1/instructionteam/main/images/viewonline.gif" alt="View Online" caption="View Online" class="responsive">
 </a>
 </html>
