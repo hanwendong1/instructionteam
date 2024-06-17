@@ -55,7 +55,7 @@ This tutorial will show you how to find books in the U of I Library.
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 .responsive {
-  width: 100%;
+  width: 40%;
   height: auto;
 }
 </style>
