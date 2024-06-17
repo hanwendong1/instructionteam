@@ -137,8 +137,7 @@ Searching for articles can be complex, so don't hesitate to contact the Library 
 }
 <figure>
   <picture>
-    <a href="https://raw.githubusercontent.com/hanwendong1/instructionteam/main/images/summitrequest.gif" target="_blank">
-	<img src="https://raw.githubusercontent.com/hanwendong1/instructionteam/main/images/accessebook.gif" alt="Access eBooks">
+	<img src="https://raw.githubusercontent.com/hanwendong1/instructionteam/main/images/accessebook.gif" target="_blank"; alt="Access eBooks">
   </picture>
   <figcaption>Access eBooks</figcaption>
 </figure>

@@ -1,6 +1,6 @@
 ---
 title: Finding books instructions
-nav: Page
+nav: Page2
 ---
 
 This tutorial will show you how to find books in the U of I Library.
