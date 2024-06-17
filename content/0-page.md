@@ -127,3 +127,10 @@ This walkthrough provides steps for using **Academic Search Premier**, a multi-d
 {% capture text %}
 Searching for articles can be complex, so don't hesitate to contact the Library for additional assistance.{% endcapture %}
 {% include alert.html text=text color=secondary %}
+
+<figure>
+  <picture>
+    <img src="https://raw.githubusercontent.com/hanwendong1/instructionteam/main/images/accessebook.gif" alt="Access eBooks">
+  </picture>
+  <figcaption>Access eBooks</figcaption>
+</figure>
