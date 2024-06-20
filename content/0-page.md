@@ -105,7 +105,7 @@ This walkthrough provides steps for using **Academic Search Premier**, a multi-d
 }
 </style>
 <a href="https://raw.githubusercontent.com/hanwendong1/instructionteam/main/images/refine.jpg" target="_blank">
-<img src="https://raw.githubusercontent.com/hanwendong1/instructionteam/main/images/refine.jpgg" alt="Academic Search Premier search screen" caption="Academic Search Premier search screen" class="responsive">
+<img src="https://raw.githubusercontent.com/hanwendong1/instructionteam/main/images/refine.jpg" alt="Academic Search Premier search screen" caption="Academic Search Premier search screen" class="responsive">
 </a>
 <p>
 
