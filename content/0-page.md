@@ -19,7 +19,21 @@ This walkthrough provides steps for using **Academic Search Premier**, a multi-d
 
 - From the Library webpage, [lib.uidaho.edu](https://lib.uidaho.edu){:target="_blank"}, click **Academic Search Premier** under the catalog search bar and magnifying glass.
 
-{% include figure.html img="navigate.jpg" alt="Navigate to Academic Search Premier" caption="Navigate to Academic Search Premier" width="100%" %}
+<html>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.responsive {
+  width: 100%;
+  height: auto;
+}
+</style>
+<a href="https://raw.githubusercontent.com/hanwendong1/instructionteam/main/images/navigate.jpg" target="_blank">
+<img src="https://raw.githubusercontent.com/hanwendong1/instructionteam/main/images/navigate.jpg" alt="Navigate to Academic Search Premier" caption="Navigate to Academic Search Premier" class="responsive">
+</a>
+<p>
+
+</p>
+</html>
 
 - Sign in to your account using your U of I email and password.
 
@@ -46,15 +60,57 @@ This walkthrough provides steps for using **Academic Search Premier**, a multi-d
 
 - Click search after typing the keywords.
 
-{% include figure.html img="searchscreen.jpg" alt="Academic Search Premier search screen" caption="Academic Search Premier search screen" width="100%" %}
+<html>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.responsive {
+  width: 100%;
+  height: auto;
+}
+</style>
+<a href="https://raw.githubusercontent.com/hanwendong1/instructionteam/main/images/searchscreen.jpg" target="_blank">
+<img src="https://raw.githubusercontent.com/hanwendong1/instructionteam/main/images/searchscreen.jpg" alt="Academic Search Premier search screen" caption="Academic Search Premier search screen" class="responsive">
+</a>
+<p>
+
+</p>
+</html>
 
 - Here's the results page:
 
-{% include figure.html img="resultspage.jpg" alt="Results page" caption="Results page" width="100%" %}
+<html>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.responsive {
+  width: 100%;
+  height: auto;
+}
+</style>
+<a href="https://raw.githubusercontent.com/hanwendong1/instructionteam/main/images/resultspage.jpg" target="_blank">
+<img src="https://raw.githubusercontent.com/hanwendong1/instructionteam/main/images/resultspage.jpg" alt="Results page" caption="Results page" class="responsive">
+</a>
+<p>
+
+</p>
+</html>
 
 - Refine results by navigating to the "Refine Results" and "Limit To" sections to add filters to the search results. Check the box to narrow down the search to "Peer-Reviewed" journals and choose a specific date range if necessary.
 
-{% include figure.html img="refine.jpg" alt="Academic Search Premier search screen" caption="Refine results options" width="50%" %}
+<html>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.responsive {
+  width: 50%;
+  height: auto;
+}
+</style>
+<a href="https://raw.githubusercontent.com/hanwendong1/instructionteam/main/images/refine.jpg" target="_blank">
+<img src="https://raw.githubusercontent.com/hanwendong1/instructionteam/main/images/refine.jpgg" alt="Academic Search Premier search screen" caption="Academic Search Premier search screen" class="responsive">
+</a>
+<p>
+
+</p>
+</html>
 
 - The icons in the result list indicate what kind of publication the article is from. 
 
