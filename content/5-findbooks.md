@@ -52,6 +52,13 @@ This tutorial will show you how to find books in the U of I Library.
 - When searching for books, you can limit the results by `Resource Type` by clicking `Show More`, checking the box for `Print Books` and `eBooks`, and clicking `Apply Filters`.
 
 <html>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.responsive {
+  width: 30%;
+  height: auto;
+}
+</style>
 <a href="https://raw.githubusercontent.com/hanwendong1/instructionteam/main/images/refineresults.gif" target="_blank">
 <img src="https://raw.githubusercontent.com/hanwendong1/instructionteam/main/images/refineresults.gif" alt="Refine Results" caption="Refine Results" class="responsive">
 </a>
