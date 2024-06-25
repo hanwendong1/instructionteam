@@ -3,18 +3,6 @@ title: Instructional guides for popular content
 nav: Page
 ---
 
-- Identify the topic/content page to be created
-- Create walkthrough guides by modeling this page [https://collectionbuilder.github.io/cb-docs/docs/walkthroughs/](https://collectionbuilder.github.io/cb-docs/docs/walkthroughs/){:target="_blank"}
-    - See sample instructional page (on finding articles) below
-
-{% capture text %}
-Looking for articles, book chapters, conference proceedings, or other research materials? Databases are the best place to search. The library subscribes to over 200 databases, including many discipline-specific options.
-
-This walkthrough provides steps for using **Academic Search Premier**, a multi-disciplinary database, to search for sources related to the sample topic on *why we sometimes get music stuck in our head*. 
-{% endcapture %}
-{% include card.html text=text %}
-
-
 #### 1. Access Academic Search Premier.
 
 - From the Library webpage, [lib.uidaho.edu](https://lib.uidaho.edu){:target="_blank"}, click **Academic Search Premier** under the catalog search bar and magnifying glass.
