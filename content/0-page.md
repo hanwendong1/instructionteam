@@ -3,6 +3,8 @@ title: Instructional guides for popular content
 nav: Page
 ---
 
+This tutorial will show you how to find articles in the U of I Library. The database `Academic Search Premier` is used as an example.
+
 #### 1. Access Academic Search Premier.
 
 - From the Library webpage, [lib.uidaho.edu](https://lib.uidaho.edu){:target="_blank"}, click **Academic Search Premier** under the catalog search bar and magnifying glass.
@@ -43,6 +45,10 @@ nav: Page
 
 {:start="2"}
 #### 2. Search for Articles.
+
+- You can search by an article’s title, if you know what article you are looking for. If you don’t have a specific article in mind, you can search by keywords using a general keyword or two.
+
+- For example, when researching earworms, as in when you can’t get a song out of your head, you can use “earworms” as a keyword.
 
 - Type keywords **earworms music brain** in the search box. This is the same as using the Boolean phrase **earworms AND music AND brain** because the database automatically puts an AND in all capital letters between each word. 
 
